@@ -7,7 +7,5 @@ tmp/*
 app/tmp/*
 app/[Cc]onfig/core.php
 app/[Cc]onfig/database.php
-app/[Cc]onfig/database.php.default
-app/[Cc]onfig/email.php.default
 app/[Cc]onfig/email.php
 !empty
