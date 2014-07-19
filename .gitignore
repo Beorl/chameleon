@@ -8,4 +8,5 @@ app/tmp/*
 app/[Cc]onfig/core.php
 app/[Cc]onfig/database.php
 app/[Cc]onfig/email.php
+lib/Cake/Console/*
 !empty
